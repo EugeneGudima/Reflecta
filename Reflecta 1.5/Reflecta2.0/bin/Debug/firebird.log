@@ -1,9 +1,0 @@
-
-MONITORLIZARD	Mon Aug 05 15:45:14 2013
-	Database: E:\DROPBOX\WORK\TEST.FDB
-	internal Firebird consistency check (cannot find tip page (165), file: tra.cpp line: 2454)
-
-
-MONITORLIZARD	Mon Aug 05 17:57:03 2013
-	Shutting down the server with 1 active connection(s) to 1 database(s), 1 active service(s)
-
