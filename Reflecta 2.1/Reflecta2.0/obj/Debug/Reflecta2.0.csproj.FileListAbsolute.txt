@@ -1,0 +1,117 @@
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.exe.config
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.exe
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.pdb
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.csprojResolveAssemblyReference.cache
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Properties.Resources.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.csproj.GenerateResource.Cache
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.exe
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.pdb
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.MainWindow.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\ZedGraph.xml
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\de\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\es\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\fr\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\hu\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\it\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\ja\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\pt\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\sv\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\tr\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Search.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Calibration.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.ReflectogramViewer.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.OpenExperimentsGroupsDialog.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.OpenCalibration.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.TestCalibration.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.ExportWindow.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.SqlWindow.resources
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\Mono.Security.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\Npgsql.pdb
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\Npgsql.xml
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\de\Npgsql.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\es\Npgsql.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\fi\Npgsql.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\fr\Npgsql.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\ja\Npgsql.resources.dll
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.exe.config
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.exe
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.pdb
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\Mono.Security.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\Npgsql.pdb
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\Npgsql.xml
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\ZedGraph.xml
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\de\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\es\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\fi\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\fr\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\ja\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\zh-cn\Npgsql.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\de\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\es\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\fr\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\hu\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\it\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\ja\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\pt\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\sv\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\tr\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.ExportWindow.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.OpenCalibration.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.SqlWindow.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.TestCalibration.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Calibration.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.MainWindow.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.OpenExperimentsGroupsDialog.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Properties.Resources.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.ReflectogramViewer.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Search.resources
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.exe
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.pdb
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.FoolCheck.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.exe.config
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.exe
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\Reflecta2.0.pdb
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\Mono.Security.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\Npgsql.pdb
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\Npgsql.xml
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\ZedGraph.xml
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\de\Npgsql.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\es\Npgsql.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\zh-cn\Npgsql.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.csprojResolveAssemblyReference.cache
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.FoolCheck.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.ExportWindow.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.OpenCalibration.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.SqlWindow.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.TestCalibration.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Calibration.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.MainWindow.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.OpenExperimentsGroupsDialog.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Properties.Resources.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.ReflectogramViewer.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.Search.resources
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.csproj.GenerateResource.Cache
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.exe
+C:\Users\postgres\Desktop\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.pdb
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.csprojResolveAssemblyReference.cache
+D:\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2.0.csproj.GenerateResource.Cache
+E:\Dropbox\c# Projects\Reflecta2.0\Reflecta2.0\obj\Debug\Reflecta2._0.FoolCheck.resources
